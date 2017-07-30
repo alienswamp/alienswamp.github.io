@@ -4,43 +4,44 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi,
+I’m an engineering student.
+I help student clubs make their designs a reality.
+When I’m not working on tech, you can find me cooking Chinese food.
+Want to work together? I’d love to hear from you.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Currently reading: <font color="red">Unlimited Horizons: Design and Development of the U-2</font>
+Currently learning: <font color="blue">Ukulele</font>
+Currently dreaming about: <font color="green">An autonomous boat crossing the Atlantic</font>
+</p>
 
-<h2>Skills</h2>
+<h2>Computer Languages</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>Java</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Excel VBA</li>
+	<li>MATLAB</li>
+	<li>Arduino</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>Design & Fabrication</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+<ul class="skill-list">
+	<li>Solid Works</li>
+	<li>Autodesk Fusion 360</li>
+	<li>Autodesk Inventor</li>
+	<li>3D Printing</li>
+	<li>Welding</li>
+	<li>Machining</li>
 </ul>
+
+<h2>Languages</h2>
+
+<ul class="skill-list">
+	<li>English - Native</li>
+	<li>Polish - Native</li>
+	<li>French - Beginner</li>
+	<li>Norwegian - Beginner</li>
+</ul>
+
