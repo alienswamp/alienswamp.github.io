@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi,
-I’m an engineering student.
-I help student clubs make their designs a reality.
-When I’m not working on tech, you can find me cooking Chinese food.
-Want to work together? I’d love to hear from you.</p>
+<p>Hi</p>
+<p>I’m an engineering student.</p>
+<p>I help student clubs make their designs a reality.</p>
+<p>When I’m not working on tech, you can find me cooking Chinese food.</p>
+<p>Want to work together? I’d love to hear from you.</p>
 
 <p>Currently reading: <font color="red">Unlimited Horizons: Design and Development of the U-2</font>
 Currently learning: <font color="blue">Ukulele</font>
