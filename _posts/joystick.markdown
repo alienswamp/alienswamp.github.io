@@ -1,0 +1,20 @@
+---
+title: "3D printed custom joystick"
+layout: post
+date: 2017-04-04 12:08
+tag: jekyll
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Built and designed a joystick"
+category: project
+author: fredk
+externalLink: false
+---
+
+I had always wanted a joystick, and since I had access to a 3D printer, I decided to design one using Fusion 360. I didn't find much information on how joysticks are designed aside from a few blog posts by people who had built their own. I went with a ball joint design and potentiometers mounted to measure the change in angle.
+
+I quickly made a prototype to visualize the idea. There were problems with the first version. The ball joint, being made from 3D printed PLA plastic, wasn't smooth enough. The mounting I made for the potentiometers ended up being too large and unstable.
+
+I'm currently working on making the whole assembly smaller, as well as eliminating the ball joint. I was hoping to implement a centering mechanism as well.
