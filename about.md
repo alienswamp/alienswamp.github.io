@@ -10,10 +10,9 @@ layout: page
 <p>When I’m not working on tech, you can find me cooking Chinese food.</p>
 <p>Want to work together? I’d love to hear from you.</p>
 
-<p>Currently reading: <font color="red">Unlimited Horizons: Design and Development of the U-2</font>
-Currently learning: <font color="blue">Ukulele</font>
-Currently dreaming about: <font color="green">An autonomous boat crossing the Atlantic</font>
-</p>
+<p>Currently reading: <font color="red">Unlimited Horizons: Design and Development of the U-2</font></p>
+<p>Currently learning: <font color="blue">Ukulele</font></p>
+<p>Currently dreaming about: <font color="green">An autonomous boat crossing the Atlantic</font></p>
 
 <h2>Computer Languages</h2>
 
