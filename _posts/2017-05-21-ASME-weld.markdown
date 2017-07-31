@@ -7,7 +7,7 @@ image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Welded a go kart with friends"
+description: "Go-Kart Welding"
 category: project
 author: fredk
 externalLink: false
