@@ -1,7 +1,7 @@
 ---
 title: "Welding a go-kart for ASME"
 layout: post
-date: 2017-07-23 22:10
+date: 2017-05-21 22:10
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
