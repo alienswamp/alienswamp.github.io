@@ -15,4 +15,7 @@ externalLink: false
 
 My friend and I participated and won first place in the Innovation Lab's 3D the Campus Competition. The goal of the competition was to create the best looking photosphere of a location on campus, as well as the most liked one on Instagram. We took first place in both categories.
 
-<a href="https://it.stonybrook.edu/news/articles/kozwolski-and-torza-win-innovation-labs-3d-the-campus-competition">Link to our winning photospheres</a>.
+![Photosphere1]({{ site.url }}/assets/photosp1.jpg)
+![Photosphere2]({{ site.url }}/assets/photosp2.jpg)
+
+<a href="https://it.stonybrook.edu/news/articles/kozwolski-and-torza-win-innovation-labs-3d-the-campus-competition">Link to the school's article about us</a>.
