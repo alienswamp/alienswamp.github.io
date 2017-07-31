@@ -1,35 +1,25 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: "Welding a go kart for ASME"
 layout: post
-date: 2016-01-23 22:10
+date: 2017-07-23 22:10
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: johndoe
+author: fredk
 externalLink: false
 ---
+I joined ASME club in Stony Brook at the beginning of my Sophomore Spring semester. I had been interested in learning to weld, so when I heard that the club's go kart build needed a welder, I jumped at the opportunity. I had very little prior experience with welding but by the end I had put in about 30 hours of welding time, and learned a whole lot more about metal fabrication.
 
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
+One of the team members designed the frame in Autodesk Inventor. I had some input into the design, since I noticed a weak point while welding. Unfortunately the length of the steel tubes we used was rather short, so the frame had a joint where the driver would be sitting. To solve this, I welded together reinforcements in a few places to ensure safety.
 
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
+![Frame CAD]({{ site.url }}/assets/framecad.jpg)
 
----
+We used steel square tubing to form the body. Since the FSAE club I was in used TIG, I figured it'd be better to learn TIG welding so I could help out in FSAE as a welder.
 
-What has inside?
+![Frame Weld 1]({{ site.url }}/assets/frameweld1.jpg) ![Frame Weld 2]({{ site.url }}/assets/frameweld2.jpeg)
 
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
----
-
-[Check it out](http://sergiokopplin.github.io/indigo/) here.
-If you need some help, just [tell me](http://github.com/sergiokopplin/indigo/issues).
+The frame is currently finished. Our next steps will be installing the eletronics. I'll personally be fitting the motors and ESCs.
