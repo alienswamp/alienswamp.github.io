@@ -1,0 +1,18 @@
+---
+title: "Clutch handle mechanism for FSAE"
+layout: post
+date: 2017-03-19 16:32
+tag: jekyll
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Built and designed a joystick"
+category: project
+author: fredk
+externalLink: false
+---
+
+The team I was working in designed a clutch mechanism in Solidworks for Knickerbocker Motor Sports in Columbia University.
+
+We considered a electro-mechanical system to reduce strain on the driver when the clutch is engaged. Since implementing it would remove any forces from the driver, we decided instead to give a large lever ratio and position it parallel to the acceleration that the driver will be experiencing. We'll be machining it soon and after that I'll TIG weld it onto the frame.
