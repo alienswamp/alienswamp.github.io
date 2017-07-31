@@ -7,10 +7,10 @@ image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "VR competition"
+description: "VR Competition"
 category: project
 author: fredk
-externalLink: true
+externalLink: false
 ---
 
 My friend and I participated and won first place in the Innovation Lab's 3D the Campus Competition. The goal of the competition was to create the best looking photosphere of a location on campus, as well as the most liked one on Instagram. We took first place in both categories.
