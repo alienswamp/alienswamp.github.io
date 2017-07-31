@@ -22,6 +22,7 @@ layout: page
 
 <ul class="skill-list">
 	<li>Solid Works</li>
+	<li>Creo</li>
 	<li>Autodesk Fusion 360</li>
 	<li>Autodesk Inventor</li>
 	<li>3D Printing</li>
