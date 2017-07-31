@@ -1,0 +1,18 @@
+---
+title: "VR Competition at Stony Brook"
+layout: post
+date: 2017-04-22 18:34
+tag: jekyll
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Won VR competition"
+category: project
+author: fredk
+externalLink: true
+---
+
+My friend and I participated and won first place in the Innovation Lab's 3D the Campus Competition. The goal of the competition was to create the best looking photosphere of a location on campus, as well as the most liked one on Instagram. We took first place in both categories.
+
+<a href="https://it.stonybrook.edu/news/articles/kozwolski-and-torza-win-innovation-labs-3d-the-campus-competition">Link to our winning photospheres</a>.
