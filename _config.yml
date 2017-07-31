@@ -67,6 +67,12 @@ authors:
         external-image: false
         picture: assets/images/james.jpg
         twitter: jamesfoster
+    fredk:
+        name: Frederick Kozlowski
+        bio: Me
+        external-image: false
+        picture: assets/images/profile.jpg
+        twitter:
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
