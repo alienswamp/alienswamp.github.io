@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Currently reading: <font color="red">Unlimited Horizons: Design and Development of the U-2</font></p>
+<p>Currently reading: <font color="red">Make It So: Interaction Design Lessons From Science Fiction</font></p>
 <p>Currently learning: <font color="blue">Ukulele</font></p>
 <p>Currently dreaming about: <font color="green">An autonomous boat crossing the Atlantic</font></p>
 
