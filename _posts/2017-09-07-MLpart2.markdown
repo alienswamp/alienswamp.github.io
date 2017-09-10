@@ -1,0 +1,21 @@
+---
+title: "Neural Network Obstacles"
+layout: post
+date: 2017-09-07 14:11
+tag: jekyll
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Training Darknet YOLO"
+category: project
+author: fredk
+externalLink: false
+---
+Over the summer I was working on learning about neural networks, and training an object detector as a proof of concept. I ended up using Darknet for Object Detection, since when I started working, Tensorflow's object detection API wasn't released yet.
+
+IMAGE
+
+While the neural network I trained does recognize doors, it isn't the best at it, both on account of my lack of knowledge about the theoretical framework behind machine learning and my underpowered graphics card. This semester, I was lucky enough to be allowed to sit in on a class on machine learning, and I'm looking to buy AWS EC2 time for my next attempt.
+
+While I'm learning more about neural networks, I'll be focusing on processing LIDAR data. I have plans to build a mobile robot on the cheap for getting LIDAR data. I've been having trouble finding large enough datasets that have the kind of data I'm looking for. The concept behind using the neural network is to identify unique points, however all large datasets I've seen are mostly of large office complexes, which aren't ideal. Once I have the LIDAR data, I'd like to process it either using RANSAC or possibly some other hybrid method.
