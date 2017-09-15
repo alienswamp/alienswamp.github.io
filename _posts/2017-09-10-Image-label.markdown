@@ -19,4 +19,4 @@ I eventually used BBox Label Tool, and used Guanghan Ning's conversion script to
 
 ![LabelDemo]({{ site.url }}/assets/labelflower.jpg)
 
-<a href="https://it.stonybrook.edu/news/articles/kozwolski-and-torza-win-innovation-labs-3d-the-campus-competition">Link to repository</a>.
+<a href="https://github.com/fredkozlowski/Lucid-Label">Link to repository</a>.
