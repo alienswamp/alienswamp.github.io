@@ -17,6 +17,6 @@ I have been using the Darknet Yolo v2 Neural Network for my map merging software
 
 I eventually used BBox Label Tool, and used Guanghan Ning's conversion script to get the labels into YOLO format. I did not look forward to going through this process again, and I figured it'd be a good idea to learn JavaFX either way, so I decided to build my own image labelling tool. Currently it's working but I need to add features.
 
-![LabelDemo]({{ site.url }}/assets/labelflower.jpg)
+![LabelDemo]({{ site.url }}/assets/label.png)
 
 <a href="https://github.com/fredkozlowski/Lucid-Label">Link to repository</a>.
