@@ -44,7 +44,7 @@ disqus:
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: fredkozlowski
+# github: fredkozlowski
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -52,7 +52,7 @@ github: fredkozlowski
 #medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: frederick.kozlowski@stonybrook.edu
+#email: frederick.kozlowski@stonybrook.edu
 
 authors:
     johndoe:
@@ -69,7 +69,7 @@ authors:
         twitter: jamesfoster
     fredk:
         name: Frederick Kozlowski
-        bio: Me
+        bio: 
         external-image: false
         picture: assets/images/profile.jpg
         twitter:
@@ -103,7 +103,7 @@ related: false
 post-advance-links: [blog]
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
 # do you want some animations?
 animation: true
