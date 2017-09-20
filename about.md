@@ -8,6 +8,8 @@ layout: page
 <p>Currently learning: <font color="blue">JavaFX</font></p>
 <p>Currently dreaming about: <font color="green">An autonomous boat crossing the Atlantic</font></p>
 
+<a href = "https://github.com/fredkozlowski/">My Github </a>
+
 <h2>Computer Languages</h2>
 
 <ul class="skill-list">
