@@ -6,7 +6,7 @@ layout: page
 
 <p>Currently reading: <font color="red">The Collected Stories of Arthur C. Clarke</font></p>
 <p>Currently learning: <font color="blue">JavaFX</font></p>
-<p>Currently dreaming about: <font color="green">An autonomous boat crossing the Atlantic</font><br></p>
+<p>Currently dreaming about: <font color="green">An autonomous boat crossing the Atlantic</font></p>
 
 <a href = "https://github.com/fredkozlowski/">My Github </a>
 
