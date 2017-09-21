@@ -1,5 +1,5 @@
 ---
-title: "Geneva Mechanism modelled in Fusion 360"
+title: "Geneva Mechanism Modelled in Fusion 360"
 layout: post
 date: 2017-08-01 15:52
 tag: jekyll
