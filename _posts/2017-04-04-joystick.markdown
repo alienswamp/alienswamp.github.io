@@ -1,5 +1,5 @@
 ---
-title: "3D printed custom joystick"
+title: "3D Printed Custom Joystick"
 layout: post
 date: 2017-04-04 12:08
 tag: jekyll
