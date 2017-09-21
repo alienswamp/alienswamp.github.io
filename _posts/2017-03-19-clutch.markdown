@@ -1,5 +1,5 @@
 ---
-title: "Clutch handle mechanism for FSAE"
+title: "Clutch Handle Mechanism for FSAE"
 layout: post
 date: 2017-03-19 16:32
 tag: jekyll
