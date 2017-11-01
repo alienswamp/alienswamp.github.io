@@ -1,5 +1,5 @@
 ---
-title: "Neural Network Obstacles"
+title: "YOLO for feature extraction."
 layout: post
 date: 2017-09-07 14:11
 tag: jekyll
@@ -12,7 +12,7 @@ category: project
 author: fredk
 externalLink: false
 ---
-Over the summer I was working on learning about neural networks, and training an object detector as a proof of concept. I ended up using Darknet for Object Detection, since when I started working, Tensorflow's object detection API wasn't released yet.
+Over the summer I was learning about neural networks, and training a feature extractor as a proof of concept. I ended up using YOLOv2 for the task, since when I started working, Tensorflow's object detection API wasn't released yet. I trained the neural network on architectural drawings, since those seemed to be readily available in large quantities and a good approximation for the result of processed indoor LIDAR data. I only aimed to recognize doors to simplify the task.
 
 While the neural network I trained does recognize doors, it isn't the best at it because of my lack of knowledge about machine learning. At the very minimum, while my execution leaves much to be desired, I was successful in implementing a machine learning framework. This semester, I was lucky enough to be allowed to sit in on a class on machine learning and its applications in robotics.
 
