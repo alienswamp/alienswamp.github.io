@@ -17,5 +17,5 @@ to better utilize the outside area. I modelled the cafe and surrounding stores t
 modelled after the next door sushi restaurant's planned awning. The end result was used by the owner of NY Bagel as a visual aid for a presentation
 to the property owner and awning company.
 
-![Photo of storefront]({{ site.url }}/assets/bagelfront.gif)
-![CAD model of storefront]({{ site.url }}/assets/bagelcad.gif)
+![Photo of storefront]({{ site.url }}/assets/bagelfront.jpeg)
+![CAD model of storefront]({{ site.url }}/assets/bagelcad.png)
