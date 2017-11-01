@@ -1,5 +1,5 @@
 ---
-title: "Geneva Mechanism Modelled in Fusion 360"
+title: "CAD model for New York Bagel Cafe"
 layout: post
 date: 2017-10-29 17:04
 tag: jekyll
