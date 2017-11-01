@@ -12,7 +12,7 @@ category: project
 author: fredk
 externalLink: false
 ---
-I was approached by the owner of NY Bagel Cafe in Los Angeles to make a CAD model of his storefront. The owner was looking to have an awning put in to better utilize the outside area. I used Fusion 360 to model the cafe and surrounding stores from reference images. The awning design was modelled after the next door sushi restaurant's planned awning. The end result was used by the owner of NY Bagel as a visual aid for a presentation to the property owner and awning company.
+I was approached by the owner of NY Bagel Cafe in Los Angeles to make a CAD model of his storefront. The owner was looking to have an awning put in to better utilize the outside area. I used Fusion 360 to model the cafe and surrounding stores from reference images. The awning design was modelled after the next door sushi restaurant's planned awning. The design was used by the owner of NY Bagel as a visual aid for a presentation to the property owner and awning company.
 
 ![Photo of storefront]({{ site.url }}/assets/bagelfront.jpg)
 ![CAD model of storefront]({{ site.url }}/assets/bagelcad.png)
