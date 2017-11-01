@@ -1,0 +1,21 @@
+---
+title: "Geneva Mechanism Modelled in Fusion 360"
+layout: post
+date: 2017-10-29 17:04
+tag: jekyll
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "CAD work for NY Bagel Cafe"
+category: project
+author: fredk
+externalLink: false
+---
+I was approached by the owner of NY Bagel Cafe in Los Angeles to make a CAD model of his storefront. The owner was looking to have an awning put in
+to better utilize the outside area. I modelled the cafe and surrounding stores to provide context from reference images. The awning design was
+modelled after the next door sushi restaurant's planned awning. The end result was used by the owner of NY Bagel as a visual aid for a presentation
+to the property owner and awning company.
+
+![Photo of storefront]({{ site.url }}/assets/bagelfront.gif)
+![CAD model of storefront]({{ site.url }}/assets/bagelcad.gif)
