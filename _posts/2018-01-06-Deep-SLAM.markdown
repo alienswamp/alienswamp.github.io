@@ -1,0 +1,20 @@
+---
+title: "Recreating Deep SLAM"
+layout: post
+date: 2018-01-06 16:33
+tag: jekyll
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Recreating Deep SLAM"
+category: project
+author: fredk
+externalLink: false
+---
+
+While taking a research-oriented machine learning class I chose to replicate the paper "Towards Geometric Deep SLAM" published by Magic Leap researchers. The SLAM algorithm is composed of a point detector which feeds into a homography detector.
+
+The training data for the point detector was generated using the Unity game engine. As in the paper, to simplify the project, the point detector would be used exclusively to find the corners of a cube. It was my first time using the software and Javascript, so it took me a while to make progress. My code is uploaded on Github. The code was rough, but it did generate workable data. The goal was to randomly position and scale a white cube on a black background. This scene would be screenshotted and the screen coordinates of the corner pixels would be written to a text file.
+
+![Corner detector training image]({{ site.url }}/assets/train.jpg)
