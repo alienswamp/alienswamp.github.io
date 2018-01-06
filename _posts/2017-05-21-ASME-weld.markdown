@@ -23,3 +23,9 @@ We used steel square tubing to form the body. Since the FSAE club I was in used 
 ![Frame Weld 1]({{ site.url }}/assets/frameweld1.jpg) ![Frame Weld 2]({{ site.url }}/assets/frameweld2.jpeg)
 
 The frame is currently finished. Our next steps will be installing the eletronics. I'll personally be fitting the motors and ESCs.
+
+Update - January 2018
+
+![Go Kart Progress]({{ site.url }}/assets/newgokart.jpg)
+
+The rest of the go kart has been assembled, aside from the steering rods.
