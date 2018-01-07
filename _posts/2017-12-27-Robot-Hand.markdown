@@ -1,7 +1,7 @@
 ---
 title: "Modelling a Robot Gripper"
 layout: post
-date: 2018-12-27 15:58
+date: 2017-12-27 15:58
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
