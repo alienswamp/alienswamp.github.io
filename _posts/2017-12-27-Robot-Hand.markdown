@@ -13,8 +13,6 @@ author: fredk
 externalLink: false
 ---
 
-![Go Kart Progress]({{ site.url }}/assets/gripper.jpg)
-
 This semester I took a Machine Design class, and for my final project I chose to analyze a robot gripper, as described in the paper The GR2 Gripper: An Underactuated Hand for Open-Loop In-Hand Planar Manipulation. The GR2 gripper has the capability to reorient an object being gripped over a range of 90° without needing additional control complexity.
 
 In my analysis, I personally did a CAD simulation to show the unique functionality of a simplified GR2, as well as a Force Analysis for an example use case.
