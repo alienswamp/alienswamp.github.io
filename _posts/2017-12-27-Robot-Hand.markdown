@@ -17,7 +17,7 @@ This semester I took a Machine Design class, and for my final project I chose to
 
 In my analysis, I personally did a CAD simulation to show the unique functionality of a simplified GR2, as well as a Force Analysis for an example use case.
 
-The following images are from the paper cited.
+The following images are from the paper cited showing the layout and implementation of the GR2 concept.
 
 ![GR2 Design]({{ site.url }}/assets/gr2draw.gif)
 ![GR2 Built]({{ site.url }}/assets/gr2real.gif)
@@ -28,3 +28,6 @@ To generate a CAD model I simplified the GR2 and animated it. After running the 
 ![GR2 CAD]({{ site.url }}/assets/gr2cad.png)
 
 A kinematic analysis and force analysis were done in MATLAB with assumed data, which would be tedious to list. The point was to see if a probable situation would result in easy to achieve force requirements for the servos controlling the gripper "fingers". For an angular acceleration of 1 rad/s^2 and angular velocity of 1 rad/s the result for the moment from the drive servo was 18.2 Nm, which was a reasonable result.
+
+![GR2 Built]({{ site.url }}/assets/gr2force.png)
+
