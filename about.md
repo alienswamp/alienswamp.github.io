@@ -10,6 +10,8 @@ layout: page
 
 <a href = "https://github.com/fredkozlowski/">My Github </a>
 
+<a href = "http://irenechen.me/">My girlfriend</a>
+
 <h2>Computer Languages</h2>
 
 <ul class="skill-list">
