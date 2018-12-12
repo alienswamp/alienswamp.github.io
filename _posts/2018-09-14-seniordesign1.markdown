@@ -1,5 +1,5 @@
 ---
-title: "Senior Design Week 1"
+title: "Senior Design"
 layout: post
 date: 2018-09-14 13:19
 tag: jekyll
