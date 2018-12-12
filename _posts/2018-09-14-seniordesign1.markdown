@@ -7,7 +7,7 @@ image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "Senior Design Week 1"
+description: "Senior Design"
 category: project
 author: fredk
 externalLink: false
@@ -30,6 +30,6 @@ I think that for force generation, we’ll be choosing between linear actuators 
 
 For power, I don’t think that mains power will be enough. If one of the ideas ends up working, and less power will be needed to shift the user’s weight, we may end up using mains power. Otherwise, we’ll end up using a battery pack.
 
-By next week, hopefully we’ll have a finalized budget and 3 designs from which to choose from.
+Hopefully we’ll have a finalized budget and 3 designs from which to choose from.
 
 
